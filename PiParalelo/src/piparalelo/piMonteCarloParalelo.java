@@ -1,12 +1,8 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package piparalelo;
 
 /**
  *
- * @author leledezma
+ * @author Marcos
  */
 public class piMonteCarloParalelo extends Thread{
   private double cx, cy;
